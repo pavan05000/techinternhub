@@ -10,10 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="icon" href="assets/images/logo.png" type="image/x-icon">
     <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
-<<<<<<< HEAD
 
-=======
->>>>>>> 84f275dfef123530b758499da27ea5acb6fb5a11
 
     <title>Tech intern hub</title>
 
@@ -93,20 +90,12 @@ https://templatemo.com/tm-562-space-dynamic
                 <h2>Gateway  <em>To</em>  <span>Tommorow's</span> Success</h2>
                 <p>Embark on a transformative journey as a fresher in the realm of IT. At TechInternHub, we don't just teach the ropes; we throw you into the heart of real-world IT scenarios.<a rel="nofollow" href="#" target="_parent"></a>.</p>
                 <form id="search" action="https://forms.gle/7TE2sTNdgUVSKZVn6" method="GET">
-<<<<<<< HEAD
                   <!-- <fieldset>
                     <input type="address" name="address" class="email" placeholder="Enter your mail id" autocomplete="on" required>
                   </fieldset> -->
                   <fieldset>
                     <!-- <button type="submit" style="background-color: black" class="main-button">Click To Register</button> -->
                     <button type="submit" style="background-color:aqua ; width: 500px; height: 70px;" class="main-button">Click To Register</button>
-=======
-                  <fieldset>
-                    <input type="address" name="address" class="email" placeholder="Enter your mail id" autocomplete="on" required>
-                  </fieldset>
-                  <fieldset>
-                    <button type="submit" class="main-button">Click To Register</button>
->>>>>>> 84f275dfef123530b758499da27ea5acb6fb5a11
                   </fieldset>
                 </form>
               </div>
